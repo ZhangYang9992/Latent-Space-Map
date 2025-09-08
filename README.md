@@ -1,1 +1,1 @@
-# Latent-Space-Map
+# Latent Space Map for Visual Utilization of Generated Data
